@@ -4,6 +4,9 @@ data/
 corpora/
 logdir/
 samples/
+.DS_Store
+.vscode/
+*.zip
 *.pyc
 _*
 *~

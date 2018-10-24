@@ -2,12 +2,13 @@
 
 ## Requirements
 
-  * NumPy >= 1.11.1
-  * TensorFlow >= 1.3
-  * librosa
-  * tqdm
-  * matplotlib
-  * scipy
+  Run the following commands(assuming you are on python 3.42)
+  ```
+  pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.11.0-py3-none-any.whl
+  virtualenv env342
+  source env342/bin/activate
+  pip install -r requirements_mac_cpu_py34.txt
+  ```
 
 ## Data
 
