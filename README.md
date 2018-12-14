@@ -101,3 +101,10 @@ We generate speech samples based on [Harvard Sentences](http://www.cs.columbia.e
   
   Jan. 2018,
   Kyubyong Park & [Tommy Mulc](tmulc18@gmail.com)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
